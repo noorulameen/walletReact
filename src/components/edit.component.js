@@ -104,7 +104,7 @@ export default class Edit extends Component {
                         />
                     </div>
                     <div className="form-group">
-                        <label>Expense: </label>
+                        <label>Date: </label>
                         <input type="date"
                                className="form-control"
                                required={true}
